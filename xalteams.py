@@ -17,7 +17,7 @@ os.system("clear")
 print ' \033[95m******************************************'
 print ' \033[95m=========== \033[94mDDOS TOOLS XAL TEAMS \033[95m==========='               
 print ' ******************************************'
-print("\033[91mTOK TOK BARANG SAMPAI IP \033[92m%s \033[91mDAN MEMBERI ROTI KEPORT \033[92m%s!!"%(ip,port))
+print("\033[91mBANTAI IP SERVER \033[92m%s \033[91mDAN MEMBERI AMER KE PORT \033[92m%s!!"%(ip,port))
 
 class MyThread(threading.Thread):
 
@@ -49,8 +49,8 @@ if __name__ == '__main__':
 
     except KeyboardInterrupt:
         os.system('cls' if os.name == 'nt' else 'clear')
-        print '************************'
-        print '** DDOS TOOLS XAL TEAMS **'
-        print '************************'
+        print '!!!!!!!!!!!!!!!!!!!!!!!'
+        print '!! DDOS TOOLS XAL TEAM !!'
+        print '!!!!!!!!!!!!!!!!!!!!!!!!'
         print '\n\n'
         print ('BERHENTI MENYERANG {}').format(orgip)
